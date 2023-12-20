@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./App.css";
 import Counter from "./components/Counter";
 import LapTable from "./components/LapTable";
 import { Box } from "@mui/material";
